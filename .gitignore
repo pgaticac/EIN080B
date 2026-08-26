@@ -1,0 +1,73 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+/HolaMundo/nbproject/private/
+/HolaMundo/build/
+/Semana4Sesion2/nbproject/private/
+/Semana4Sesion2/build/
+/Semana4Sesion2_300/nbproject/private/
+/Semana4Sesion2_300/build/
+/Semana5Sesion1_301/nbproject/private/
+/Semana5Sesion1_301/build/
+/Semana5Sesion1_300/nbproject/private/
+/Semana5Sesion1_300/build/
+/LAB2/nbproject/private/
+/LAB2/build/
+/DEMOS/300/HolaMundo/build/
+/DEMOS/300/HolaMundo/nbproject/private/
+/DEMOS/300/Semana4Sesion2_300/build/
+/DEMOS/300/Semana4Sesion2_300/nbproject/private/
+/DEMOS/300/Semana5Sesion1_300/build/
+/DEMOS/300/Semana5Sesion1_300/nbproject/private/
+/DEMOS/301/HolaMundo/build/
+/DEMOS/301/HolaMundo/nbproject/private/
+/DEMOS/301/Semana4Sesion2/build/
+/DEMOS/301/Semana4Sesion2/nbproject/private/
+/DEMOS/301/Semana5Sesion1_301/build/
+/DEMOS/301/Semana5Sesion1_301/nbproject/private/
+/.work/*
+/Semana6Sesion1_301/nbproject/private/
+/Semana6Sesion1_301/build/
+/Semana6Sesion1_300/nbproject/private/
+/Semana6Sesion1_300/build/
+/Semana6Sesion2_301/nbproject/private/
+/Semana6Sesion2_301/build/
+/LABS/LAB4/nbproject/private/
+/LABS/LAB4/build/
+/LABS/Semana6Sesion2_300/nbproject/private/
+/LABS/Semana6Sesion2_300/build/
+/Semana7Sesion1_301/nbproject/private/
+/Semana7Sesion1_301/build/
+/Semana7Sesion1_300/nbproject/private/
+/Semana7Sesion1_300/build/
+/Semana8_Sesion1_301/nbproject/private/
+/DEMOS/300/Semana12Sesion1/nbproject/private/
+/DEMOS/300/Semana12Sesion1/build/
+/DEMOS/300/Semana12Sesion1/dist/
+/DEMOS/301/Semana13-MDI/nbproject/private/
+/DEMOS/301/Semana13-MDI/build/
+/DEMOS/301/Semana13-MDI/dist/
+/DEMOS/300/Semana13Sesion1/nbproject/private/
+/DEMOS/300/Semana13Sesion1/build/
+/DEMOS/300/Semana13Sesion1/dist/
