@@ -3,11 +3,27 @@ package clases;
 
 public class Mascota {
     private String nombre;
+    private String skin;
     private int alimentacion;
     private int energia;
     private int felicidad;
 
+    public void setNombre(String nombre) {
+        this.nombre = nombre.trim();
+    }
+
+    public String getSkin() {
+        return skin;
+    }
+
+    public void setSkin(String skin) {
+        this.skin = skin;
+    }
+
     public Mascota() {
+        this.alimentacion = 60;
+        this.energia = 70;
+        this.felicidad = 75;
     }
 
     public Mascota(String nombre) {
